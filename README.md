@@ -16,7 +16,7 @@ We used 20news_group dataset for our classification.
 1. Classification was performed based on the probabilities(**naive bayes theorem**) 
 
 
-### Results
+## Results
 
 Bag of Words 
 ![](https://github.com/Gitesh-Narula/naive-bayes-classifier-/blob/master/Results/Bag%20of%20words.png)
