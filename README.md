@@ -12,7 +12,7 @@ We used 20news_group dataset for our classification.
 1. Dataset was combined  into one file.
 1. Stopwords were removed.
 1. Lemmatization was performed on the datasets.
-1. Probabilies of each word against each cataegory was calculated and stored in the database.
+1. Probabilies of each word against each category was calculated and stored in the database.
 1. Classification was performed based on the probabilities(**naive bayes theorem**) 
 
 
