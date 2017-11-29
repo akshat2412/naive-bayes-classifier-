@@ -1,6 +1,6 @@
 # Document Classification
 
-We build a document classifier web service in which a document is uploaded and is classified using naive bayes classifier.  
+We developed a document classifier web service in which a document is uploaded and is classified using naive bayes classifier.  
 
 ## Dataset
 We used 20news_group dataset for our classification.
